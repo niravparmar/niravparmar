@@ -28,7 +28,7 @@
   * Google Analytics, Adwords, Adsense
 
 * __Personal Highlights__
-  * Fully fluent in English and Spanish
+  * Fully fluent in English and Hindi
   * Excellent ability to communicate ideas across different cultures and people
   * Excell in team enviroments in all capacities
   * Enjoy finding ways to teach and share new skills in a way that adapts to each individual
