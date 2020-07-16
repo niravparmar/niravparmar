@@ -5,7 +5,6 @@
 [github](https://github.com/niravparmar) |
 [linkedin](https://linkedin.com/in/nirav_621) |
 [instagram](https://instagram.com/nirav_621) |
-
 [+91.7574808954](tel:+91.7574808954)
 
 ## :pencil2: Skills & Highlights
