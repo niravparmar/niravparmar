@@ -37,7 +37,6 @@
 | _Thermelgy, Chennai, India_ | _May 2021 - November 2021_
 
 `Python, Node.js, AWS, GCP, React.js`
->* Developed a frontend application using React.js, GraphQL, Chart.js, and TypeScript while utilizing Recoil for state management.
 >* Built the backend using Node.js (Express.js) and Python (Flask), creating cron jobs for data backup and report generation.
 >* Utilized MySQL and MongoDB for data storage, while integrating Kafka to gather continuous data from IOT devices.
 >* Enabled **mobile-based notifications using Firebase,** providing real-time updates to clients and teams.
