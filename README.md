@@ -59,8 +59,6 @@
 >* Continuously monitor and improve the performance of the platform.
 >* Collaborate with cross-functional teams to ensure the platform meets the needs of energy auditors.
 
- at Bot2Do Technologies | Chennai, India | December 2018 - August 2020
-
 **Full Stack Developer**
 | _Bot2Do Technologies, Chennai, India_ | _December 2018 - August 2020_
 
