@@ -9,10 +9,9 @@
 
 ## :pencil2: Skills & Highlights
 * __SKILLS__
-    * JavaScript, C++, Python, HTML5, CSS3, Solidity, TypeScript, 
-    * Node.js, React.js, Redux, jQuery, Express.js, Next.js, Flask, 
-    * MySQL, MongoDB, Firebase, NoSQL, Apache Kafka, 
-    * Pandas, TenserFlow, Metplotlib, Numpy, Scikit-learn, TensorBoard, Git, Microsoft Visio, Tableau, 
+    * JavaScript, C++, Python, HTML5, CSS3, Solidity, TypeScript 
+    * Node.js, React.js, Redux, jQuery, Express.js, Next.js, Flask 
+    * MySQL, MongoDB, Firebase, NoSQL, Apache Kafka 
     * AdobeXD, Docker, Kubernetes, Keycloak, AWS (EC2, Elastic Beanstalk, Lambda, RDS, Route53, S3, CodePipeline, API Gateway, SES)
 
 * __Personal Highlights__
@@ -72,3 +71,22 @@
 >* Directed **all-round development** and coding of **client-side logic** within multiple browser environments
 >* **Large-scale enterprise projects** worth **$45m** by fulfilling strict quality standards and deploying best practices
 
+
+## :mortar_board: Education
+**Blockchain Development Program (Graduate Certificate)**
+| _George Brown College, Toronto, Canada_ | _September 2022 - August 2023_
+
+>* **Relevant Courses:** 
+ >* Practical Blockchain | Smart Contract Development Essentials | Full Stack Blockchain Integration | Business and Software Design Patterns | Advanced Blockchain Topics | Enterprise Blockchain Development
+
+**Artificial Intelligence Analysis, Design and Implementation (Graduate Certificate)**
+| _Durham College, Oshawa, Canada_ | _January 2022 - August 2022_
+
+>* **Relevant Courses:**
+>* Supervised, unsupervised and reinforcement machine learning techniques | Visualisation and Data Storytelling | Introduction of Neural Networks and Deep Learning models | Applied Mathematics for AI Systems | Linear Algebra, Statistics and Probability
+
+**Bachelor’s in Computer Engineering**
+| _Gujarat Technological University, Ahmedabad, India_ | _August 2015 - June 2019_
+
+>* **Relevant Courses:**
+>* Artificial Intelligence Data Mining and Business Intelligence | Information and Network Security | Software Engineering | System Programming | Vector Calculus & Linear Algebra
