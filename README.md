@@ -65,17 +65,20 @@
 **Blockchain Development Program (Graduate Certificate)**
 | _George Brown College, Toronto, Canada_ | _September 2022 - August 2023_
 
+>* **Awards:** Dean's List 2023"
 >* **Relevant Courses:** 
  >* Practical Blockchain | Smart Contract Development Essentials | Full Stack Blockchain Integration | Business and Software Design Patterns | Advanced Blockchain Topics | Enterprise Blockchain Development
 
 **Artificial Intelligence Analysis, Design and Implementation (Graduate Certificate)**
 | _Durham College, Oshawa, Canada_ | _January 2022 - August 2022_
 
+>* **Awards:** Dean's List 2022"
 >* **Relevant Courses:**
 >* Supervised, unsupervised and reinforcement machine learning techniques | Visualisation and Data Storytelling | Introduction of Neural Networks and Deep Learning models | Applied Mathematics for AI Systems | Linear Algebra, Statistics and Probability
 
 **Bachelor’s in Computer Engineering**
 | _Gujarat Technological University, Ahmedabad, India_ | _August 2015 - June 2019_
 
+>* **Awards:** First Class with Honours"
 >* **Relevant Courses:**
 >* Artificial Intelligence Data Mining and Business Intelligence | Information and Network Security | Software Engineering | System Programming | Vector Calculus & Linear Algebra
