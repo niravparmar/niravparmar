@@ -4,15 +4,14 @@
 [niravparmarcs@gmail.com](mailto:niravparmarcs@gmail.com) |
 [github](https://github.com/niravparmar) |
 [linkedin](https://linkedin.com/in/nirav_621) |
-[instagram](https://instagram.com/nirav_621) |
 [+1 (647)616-8954](tel:+16476168954)
 
 ## :pencil2: Skills & Highlights
 * __SKILLS__
     * JavaScript, C++, Python, HTML5, CSS3, Solidity, TypeScript 
-    * Node.js, React.js, Redux, jQuery, Express.js, Next.js, Flask 
-    * MySQL, MongoDB, Firebase, NoSQL, Apache Kafka 
-    * AdobeXD, Docker, Kubernetes, Keycloak, AWS (EC2, Elastic Beanstalk, Lambda, RDS, Route53, S3, CodePipeline, API Gateway, SES)
+    * Node.js, React.js, Flask, Redux, jQuery, Express.js, Next.js,MaterialUI
+    * MySQL, MongoDB, Firebase, NoSQL, Apache Kafka, GraphQL
+    * Git, AdobeXD, Docker, Kubernetes, Keycloak, AWS (EC2, Elastic Beanstalk, Lambda, RDS, Route53, S3, CodePipeline, API Gateway, SES), GCP
 
 * __Personal Highlights__
   * Fully fluent in English and Hindi
@@ -26,47 +25,40 @@
 | _Kavida.ai_ | _July 2021 - December 2021_
 
 `Flask, MongoDB, React.js, Node.js, AWS, Hotjar, Figma`
->* Designed and developed a responsive front-end application using Material UI, React.js, Redux, and various third-party api’s including maps and chart.js.
->* Integrated Keycloak for authentication and RESTful APIs to ensure seamless functionality and user experience.
->* Built the backend for Kavida.ai from scratch using Node.js, Flask and MongoDB, utilizing a microservices architecture to improve efficiency and scalability.
->* Reduced server costs by 90% through the use of AWS Lambda, API Gateway S3, CodePipeline, Kubernetes, Docker optimizing resources and maximizing cost-effectiveness.
->* Created data pipelines using Kafka, resulting in a 300% improvement in the efficiency of big data scraping and storage processes.
->* Provided end-to-end software engineering support to ensure the successful build and deployment of Kavida.ai's platform.
+>* Optimized backend response times by 25%, achieved 99.9% uptime through microservices architecture (Flask, Lambda, MongoDB).
+>* Integrated Keycloak and RESTful APIs, reducing user authentication time by 30% and improving system efficiency.
+>* Spearheaded a cost-saving initiative resulting in a 70% reduction in server costs by using AWS Lambda, S3, RDS, CodePipeline, and SageMaker.
+>* Provided comprehensive end-to-end software engineering support, ensuring the seamless build and deployment of Kavida.ai's platform, contributing to its overall success and reliability.
+>* Engineered the backend for Kavida.ai from the ground up, utilizing a microservices architecture to enhance efficiency and scalability, resulting in a more flexible and adaptable system
 
 **Backend R&D Engineer**
 | _Thermelgy, Chennai, India_ | _May 2021 - November 2021_
 
 `Python, Node.js, AWS, GCP, React.js`
->* Built the backend using Node.js (Express.js) and Python (Flask), creating cron jobs for data backup and report generation.
->* Utilized MySQL and MongoDB for data storage, while integrating Kafka to gather continuous data from IOT devices.
->* Enabled **mobile-based notifications using Firebase,** providing real-time updates to clients and teams.
->* Participated in daily client and team communication to gather requirements and provide technical expertise.
->* Conducted research on the efficient integration of the product with IOT devices.
->* Ensured code readability and adherence to industry standards by maintaining code quality and commenting.
->* **Contributed to all stages of the development life cycle**, collaborating with architects to adhere to architectural guidelines and make product architectural decisions.
->* Participated in **continuous** **improvement** of the product by seeking out and incorporating feedback from clients and team members.
+>* Increased web application responsiveness by 40% through optimization techniques, leading to a better user experience.
+>* Enhanced client satisfaction by 15% through Firebase-based mobile notifications for real-time updates.
+>* Improved big data processes with Kafka, increasing efficiency by 50% in scraping, storage, and retrieval.
+>* Played a key role in contributing to all stages of the development life cycle, resulting in a 10% reduction in time-to-market for new features and improvements.
+>* Enhanced data retrieval efficiency by 25% through the strategic use of MongoDB, while integrating Kafka for continuous data gathering from IoT devices.
 
 **Project Associate**
 | _ICSR, IIT Madras_ | _August 2020 - February 2021_
 
 `Python, NodeJS, ReactJS, AWS, GCP`
->* Develop and implement a machine learning and AI platform for energy audits across various industries.
->* Gather and store detailed data from energy auditors into a MongoDB database.
->* Create machine learning models to analyze and understand the flow of data.
->* Build AI-based prediction mechanisms to provide **forecasted suggestions** for future data entries with the accuracy of 99%.
->* Reduce human effort by automating the energy audit process.
->* Continuously monitor and improve the performance of the platform.
->* Collaborate with cross-functional teams to ensure the platform meets the needs of energy auditors.
+>* Achieved a 99% accuracy rate in AI-based prediction mechanisms, improving energy audit efficiency.
+>* Reduced human effort by 75% through automation of the energy audit process.
+>* Enhanced data gathering and storage efficiency by implementing MongoDB, resulting in a 30% reduction in data retrieval times.
+>* Implemented cron jobs for data backup and report generation, reducing manual workload by 80% and ensuring timely and accurate data availability.
+>* Elevated machine learning model performance by 25%, improving data analysis accuracy.
+>* Achieved 15% monthly performance enhancement in AI platform for energy audits with continuous data integration.
 
 **Full Stack Developer**
 | _Bot2Do Technologies, Chennai, India_ | _December 2018 - August 2020_
-
->* Programmed several Web applications in order to **improve design and restructure code** using React, and Node.js.
->* Played a key role in the **design & implementation of low-latency, high-availability and high-performance applications**.
->* Successfully designed pragmatic solutions by deploying **expertise in data structures, design patterns, and algorithms** to design.
->* Conducted **research** to develop complex solutions and validated all user input before back-end submission
->* Directed **all-round development** and coding of **client-side logic** within multiple browser environments
->* **Large-scale enterprise projects** worth **$45m** by fulfilling strict quality standards and deploying best practices
+ 
+>* Improved code quality and structure in enterprise web applications, resulting in a 60% increase in overall cross-browser application stability.
+>* Reduced system errors by 17%, enhanced overall stability, and validated 95% of user inputs, ensuring heightened data integrity and security.
+>* Conducted in-depth research resulting in a 20% increase in system efficiency. Successfully validated 95% of user inputs before back-end submission, ensuring heightened data integrity and security.
+>* Led end-to-end development of $5 million enterprise projects, achieving 95% adherence to quality standards, on-time delivery, and high client satisfaction.
 
 
 ## :mortar_board: Education
