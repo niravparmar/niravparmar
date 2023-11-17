@@ -8,7 +8,6 @@
 
 
 ## :pencil2: Skills & Highlights
-*__SUMMARY__
 Software Engineer with 5 years of experience in various industries focused on full stack development, and machine learning. I love designing and building highly available and scalable web applications and machine learning models, and dealing with their inherent challenges. My expertise spans JavaScript, Python, Node.js, React.js, AWS, and more. Recently concluded intensive studies in Artificial Intelligence and Blockchain, bringing a blend of hands-on experience and academic insights.
 
 * __SKILLS__
