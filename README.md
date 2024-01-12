@@ -24,6 +24,16 @@ Software Engineer with 5 years of experience in various industries focused on fu
   * Always passionate for learning
 
 ## :computer: Experience
+**Software Engineer**
+| _Teksoft Solutions_ | _January 2022 - Present_
+
+`Flask, MongoDB, React.js, Node.js, AWS, Hotjar, Figma`
+>* Optimized backend response times by 25%, achieved 99.9% uptime through microservices architecture (Flask, Lambda, MongoDB).
+>* Integrated Keycloak and RESTful APIs, reducing user authentication time by 30% and improving system efficiency.
+>* Spearheaded a cost-saving initiative resulting in a 70% reduction in server costs by using AWS Lambda, S3, RDS, CodePipeline, and SageMaker.
+>* Provided comprehensive end-to-end software engineering support, ensuring the seamless build and deployment of Kavida.ai's platform, contributing to its overall success and reliability.
+>* Engineered the backend for Kavida.ai from the ground up, utilizing a microservices architecture to enhance efficiency and scalability, resulting in a more flexible and adaptable system
+
 **Full Stack Developer**
 | _Kavida.ai_ | _July 2021 - December 2021_
 
